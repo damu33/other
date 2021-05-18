@@ -1,0 +1,37 @@
+[
+  {
+    "flightId": 0,
+    "flightNumber": 2070,
+    "departureAirportIATACode": "LAX",
+    "arrivalAirportIATACode": "PPX",
+    "departureDate": "2020-09-27T12:26:17-02:00"
+  },
+  {
+    "flightId": 1,
+    "flightNumber": 6427,
+    "departureAirportIATACode": "ANC",
+    "arrivalAirportIATACode": "GDN",
+    "departureDate": "2014-06-26T05:33:00-02:00"
+  },
+  {
+    "flightId": 2,
+    "flightNumber": 3083,
+    "departureAirportIATACode": "ANC",
+    "arrivalAirportIATACode": "PPX",
+    "departureDate": "2014-03-22T06:24:09-01:00"
+  },
+  {
+    "flightId": 3,
+    "flightNumber": 2641,
+    "departureAirportIATACode": "YYT",
+    "arrivalAirportIATACode": "PPX",
+    "departureDate": "2016-07-17T02:48:36-02:00"
+  },
+  {
+    "flightId": 4,
+    "flightNumber": 6169,
+    "departureAirportIATACode": "LAX",
+    "arrivalAirportIATACode": "LEW",
+    "departureDate": "2020-12-06T03:47:55-01:00"
+  }
+]
